@@ -1,2 +1,2 @@
-# C-
-Most C++ projects done or started
+# C++
+Where most C++ projects are done or started
